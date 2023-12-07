@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "14fcdb0107216276",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9851ab68736fd9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bc2dab7dd9690f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RxJS/Introducción.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce8c3c33574a561a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f2fc9017ffaf2fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8cdd15129fc5412",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "6193503848c44391",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce0bd1f89d3d514e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.5
+  },
+  "right": {
+    "id": "0b5a6b9f79138441",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb8e5af84efbe1a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c584035a07c215d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RxJS/Introducción.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee6150c4d24e3a27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RxJS/Introducción.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b89104c15216d5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "83754c44f239ae5a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RxJS/Introducción.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "5bc2dab7dd9690f5",
+  "lastOpenFiles": [
+    "RxJS/Iterator Pattern.md",
+    "RxJS/Observer Pattern.md",
+    "RxJS/Introducción.md",
+    "RxJS/structure.png",
+    "SQL/sql.pdf",
+    "RxJS/solution1.png",
+    "RxJS",
+    "Software Design and Architecture/Clean Code/Minimize Cyclomatic Complexity.md",
+    "Software Design and Architecture/Clean Code/Introducción.md",
+    "Software Design and Architecture/software-design-architecture.pdf",
+    "Software Design and Architecture/Paradigmas de programacion/Programación imperativa.md",
+    "Software Design and Architecture/Paradigmas de programacion/Introduccion.md",
+    "Clean architecture/Introduction.md",
+    "Clean architecture",
+    "Software Design and Architecture/Paradigmas de programacion/Programación estructurada.md",
+    "Software Design and Architecture/Paradigmas de programacion",
+    "Software Design and Architecture/Clean Code/Be Consistent.md",
+    "Software Design and Architecture/Clean Code/Funciones puras.md",
+    "Software Design and Architecture/Clean Code/Nombres significativos.md",
+    "Software Design and Architecture/Clean Code",
+    "SQL",
+    "Software Design and Architecture/Basic clean code.md",
+    "Software Design and Architecture"
+  ]
+}
