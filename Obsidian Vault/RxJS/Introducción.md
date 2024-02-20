@@ -1,7 +1,7 @@
 RxJS es una librería para crear programas asíncronos y basados en eventos usando secuencias observables. Provee un tipo principal, el Observable, y tipos satélites(Observer, Schedulers, Subjects) y operadores basados en métodos de Arrays (map, filter, reduce, etc)
 para manejar eventos asíncronos como colecciones. 
 
-ReactiveX combina el [[Observer Pattern]] con el [[Iterator Pattern]] y la programación funcional con colecciones para gestionar secuencias de eventos.
+ReactiveX combina el [[RxJS/Observer Pattern]] con el [[Iterator Pattern]] y la programación funcional con colecciones para gestionar secuencias de eventos.
 
 Los conceptos esenciales:
 
