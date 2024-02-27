@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Html/Notas varias.md",
-                "mode": "source",
+                "file": "Software Design and Architecture/SOLID/Introduccion.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 200
   },
   "right": {
     "id": "0b5a6b9f79138441",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Html/Notas varias.md",
+                "file": "Software Design and Architecture/SOLID/Introduccion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Html/Notas varias.md",
+                "file": "Software Design and Architecture/SOLID/Introduccion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Html/Notas varias.md"
+                "file": "Software Design and Architecture/SOLID/Introduccion.md"
               }
             }
           }
@@ -138,9 +138,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false
@@ -148,9 +148,23 @@
   },
   "active": "69ede085c993a6fc",
   "lastOpenFiles": [
+    "Software Design and Architecture/SOLID/Dependency Inversion Principle.md",
+    "Software Design and Architecture/SOLID/Captura desde 2024-02-27 13-28-05-negate.png",
+    "Software Design and Architecture/SOLID/Captura desde 2024-02-27 13-28-27-negate.png",
+    "Software Design and Architecture/SOLID/Captura desde 2024-02-27 13-28-27.png",
+    "Software Design and Architecture/SOLID/Captura desde 2024-02-27 13-28-05.png",
+    "Software Design and Architecture/SOLID/Interface Segregation Principle.md",
+    "Software Design and Architecture/SOLID/Liskov Substitution Principle.md",
+    "Software Design and Architecture/SOLID/Open-Closed Principle.md",
+    "Software Design and Architecture/SOLID/Single Responsibility Principle.md",
+    "Software Design and Architecture/SOLID/Introduccion.md",
+    "Soft skills/Trabajo Remoto.md",
+    "Software Design and Architecture/SOLID",
+    "Html/Notas varias.md",
+    "Clean architecture/Introduction.md",
+    "Soft skills",
     "Software Design and Architecture/Design Principles/SOLID.md",
     "Software Design and Architecture/Design Principles/Introduction.md",
-    "Html/Notas varias.md",
     "Software Design and Architecture/Design Principles",
     "Laravel/Escalabilidad/Introduction.md",
     "Html",
@@ -168,31 +182,16 @@
     "REST API/Respuesta del servidor RESTful.md",
     "REST API/Autenticación API.md",
     "REST API/Solicitud RESTful.md",
-    "REST API/¿Qué es REST?.md",
-    "REST API/¿Qué es una API?.md",
     "REST API",
     "Laravel/Patrones de diseño/images/0_zYuFHT5fvjj3gczB.webp",
     "Laravel/images/0_zYuFHT5fvjj3gczB.webp.crdownload",
     "Laravel/Patrones de diseño/images/0_eqmqtR0UzyxbIqpN.webp",
     "Laravel/images/0_eqmqtR0UzyxbIqpN.webp.crdownload",
-    "RxJS/Introducción.md",
     "Laravel/Patrones de diseño/images/0_wGiyhqjutI9RRg1L.webp",
     "Laravel/images/0_wGiyhqjutI9RRg1L.webp.crdownload",
     "Laravel/Patrones de diseño/images/0_PRzij1R6lLBEuqK3.webp",
     "Laravel/images/0_PRzij1R6lLBEuqK3.webp.crdownload",
     "Laravel/Patrones de diseño/images/0_VrORwhIQ6NnGFu5X.webp",
-    "Laravel/images/0_VrORwhIQ6NnGFu5X.webp.crdownload",
-    "Laravel/Patrones de diseño/images/0_mA8fDOt4aXc4kdWo.webp",
-    "Laravel/images/0_mA8fDOt4aXc4kdWo.webp.crdownload",
-    "Laravel/Patrones de diseño/images/0_wh-eehUGVnc93xZZZj.webp",
-    "Laravel/Patrones de diseño/images/0_syACfT2qy2n-trsXXX.webp",
-    "Laravel/Patrones de diseño/images/0_RervChK7bPfdsdsdsOdkuR.webp",
-    "Laravel/Patrones de diseño/images/0_bqg3FZAYolss-AJvo6.webp",
-    "RxJS/Observable.md",
-    "RxJS/Iterator Pattern.md",
-    "RxJS/Observer Pattern.md",
-    "Laravel/Patrones de diseño/Builder.md",
-    "Clean architecture/Introduction.md",
-    "RxJS/Subscription.md"
+    "Laravel/Patrones de diseño/images/0_mA8fDOt4aXc4kdWo.webp"
   ]
 }
